@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirmalaswath
+- 👋 Hi, I’m @nirmal_aswath
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
